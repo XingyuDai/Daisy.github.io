@@ -16,6 +16,9 @@ Here's some text. I like the Internet. I use [google](https://www.google.com/) a
 
  This is me. 
  ![](images/IMG_1660.JPG)
+ 
+ 
+ <img src="images/IMG_1660.JPG" style="width:25%">
 
 
 ```{r}
